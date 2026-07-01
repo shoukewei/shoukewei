@@ -18,6 +18,6 @@ I have authored over 40 scientific papers and 13 technical books. Some of my lat
 * *Practical Data Science Engineering: Building Reusable Workflows and Pipelines in Python* (2026) — [DOI: 10.5281/zenodo.20693366]
 
 ## 📊 Scientific Profiles
-* 🎓 **Google Scholar:** [My Citations]([https://google.ca](https://scholar.google.ca/citations?user=WMANSd8AAAAJ&hl=en))
-* 🔬 **ORCID ID:** [0000-0002-4665-5366]([https://orcid.org](https://orcid.org/0000-0002-4665-5366))
-* 🏢 **Institutional Workspace:** [DeepSim-AI Organization]([https://github.com](https://github.com/orgs/DeepSim-AI/))
+* 🎓 **Google Scholar:** [My Citations](https://scholar.google.ca/citations?user=WMANSd8AAAAJ&hl=en)
+* 🔬 **ORCID ID:** [0000-0002-4665-5366](https://orcid.org/0000-0002-4665-5366)
+* 🏢 **Institutional Workspace:** [DeepSim-AI Organization]((https://github.com/orgs/DeepSim-AI/)
